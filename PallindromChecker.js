@@ -5,4 +5,4 @@ function palindrome(str) {
   return normalizedStr === reversedStr;
 }
 
-palindrome("eye");
+console.log(palindrome("eye"));
